@@ -7,11 +7,10 @@
         ]
     },
     { 
-        "file": "hacked.dlc", 
-        "title": "HACKED",
+        "file": "tu003410.dlc", 
+        "title": "hidden DLC",
         "buttons": [
-            { "title": "Hacked 1", "action": [75,0,3,4] },
-            { "title": "Hacked 2", "action": [75,0,4,4] }
+            { "title": "test", "action": [75,0,1,3] },
         ]
     },
     {
@@ -23,9 +22,9 @@
     },
     {
         "file": "tu012700.dlc", 
-        "title": "lost Dlc",
+        "title": "HO-HEY!!",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,1,3] }
+            { "title": "Ho-Hey! ", "action": [75,0,1,3] }
         ]
     }
 ]
